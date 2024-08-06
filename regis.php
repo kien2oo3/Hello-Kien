@@ -7,5 +7,6 @@
 </head>
 <body>
 	<h2>Đăng ký tài khoản</h2>
+	<p>fixed complete</p>
 </body>
 </html>
